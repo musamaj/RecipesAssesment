@@ -14,10 +14,8 @@ This SwiftUI app displays a list of recipes fetched from a remote API. It suppor
 
 | List View | Error State | Empty State |
 |-----------|-------------|-------------|
+| <img src="https://github.com/user-attachments/assets/e9441f39-c630-4c07-aff6-1ec0004e817f" width="250"/> | <img src="https://github.com/user-attachments/assets/97c48741-9ec3-4ed4-af33-889994eeb831" width="250"/> | <img src="https://github.com/user-attachments/assets/597c38c7-49fa-4cbf-a5bf-0c2e08d5a6ee" width="250"/> |
 
-![Recipe List Screen](https://github.com/user-attachments/assets/e9441f39-c630-4c07-aff6-1ec0004e817f)
-![Error State](https://github.com/user-attachments/assets/97c48741-9ec3-4ed4-af33-889994eeb831)
-![Empty State](https://github.com/user-attachments/assets/597c38c7-49fa-4cbf-a5bf-0c2e08d5a6ee)
 
 
 ## 🎯 Focus Areas
