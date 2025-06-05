@@ -36,8 +36,8 @@ I prioritized:
 
 | Task | Time Allocation |
 |------|-----------------|
-| Core features (UI, networking, state mgmt) | ~2 hrs |
-| Custom image caching logic | ~2 hrs |
+| Core features (UI, networking, state mgmt) | ~2.5 hrs |
+| Custom image caching logic | ~1 hrs |
 | Error handling + malformed/empty data scenarios | ~1.5 hrs |
 | Unit testing (service + caching + ViewModel) | ~1 hrs |
 
